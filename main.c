@@ -57,6 +57,7 @@ int main(void)
     while (1)
     {
         // Add your application code
+        //hello world send on serial
         printf("Hello World");
     }
     return 1; 
